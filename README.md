@@ -4,9 +4,11 @@ Bem vindos amores 🍓
 
 Eu sou a Camila, mas pode me chamar de camisinha💋
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Estou estudando na Alura;
+
+Estou me desenvolvendo na linguagem JavaScript;
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 você pode entrar em contato em:
 
